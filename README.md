@@ -1,8 +1,8 @@
 # SutUP GITHUB 
 
-- [] install github
-- [] auth gh for github-cli 
-- [] learn more about github
+- [ ] install github
+- [ ] auth gh for github-cli 
+- [ ] learn more about github
 
 ## github cli commands
 
