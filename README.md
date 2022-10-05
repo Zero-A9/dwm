@@ -17,3 +17,7 @@
 - `git branch -M main` for _rename a branch and the corresponding reflog_
 
 - `git push -u origin main` for _add upstream reference for each branch that is up to date or pushed_
+
+-----------
+
+*edite* >> *add* >> *commit* >> *push*
