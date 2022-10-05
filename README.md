@@ -26,4 +26,4 @@
 
 ## ScreenShot  for my dwm_config
 
-![2022-10-06_00-22.png]
+![[2022-10-06_00-22.png]]
