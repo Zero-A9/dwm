@@ -20,4 +20,4 @@
 
 -----------
 
-*edite* >> *add* >> *commit* >> *push*
+**edite** >> **add** >> **commit** >> **push**
