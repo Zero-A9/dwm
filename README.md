@@ -26,4 +26,5 @@
 
 ## ScreenShot  for my dwm_config
 
+<img src="https://github.com/Zero-A9/dwm/blob/main/2022-10-06_13-52.png">
 <img src="https://github.com/Zero-A9/dwm/blob/main/2022-10-06_00-22.png">
